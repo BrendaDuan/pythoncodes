@@ -1,7 +1,7 @@
 The code under this file was produced for the unit, Introduction to AI, in year 3, Engineering Maths, University of Bristol.
 The title of this project is 'Development of a Chess AI using a Minimax-Heuristic Method'.
 All codes under this file were finished by me(Brenda Duan) individually.
-Before I worked individually for these code, my groupmates and I created a dose of codes for tic-tac-toe with mini-max, which were uploaded under the file Cooperate-Finished.
 The codes for the whole project can be found at [ https://github.com/EMAT31530/ai-group-project-a-eye ]
+All codes not shown in this file in the project were finished by all my groupmates and I together.
 The data I used to train the linear regression model was from kaggle [ https://www.kaggle.com/ethanmai/chess-moves?select=data.csv ]
 The outcome indicated that, the mini-max chess AI trained by a linear regression model didn't perform well.
