@@ -1,0 +1,7 @@
+The code under this file was produced for the unit, Applied Data Science, in year 3, Engineering Maths, University of Bristol.
+All codes under this file were finished by me (Brenda Duan) individually.
+The aim for this project is to build a model that can identify whether a food product has safety issue by the comments given by amazon users.
+My part was the analysis method about NLP and sentiment analysis, the codes for the whole project can be found at [ https://github.com/mwood1212/ADS-Group-Project ]
+The source data was provided by the uni and an alumini in Amazon, which can be found at [ https://s3.amazonaws.com/amazon-reviews-pds/readme.html ]
+The 'selected_review.csv' includes the comments indicated safety issues of some food products selected manually, which was used for training.
+The outcome indicated that sentiment anlysis model performed well.
