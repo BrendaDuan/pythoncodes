@@ -1,0 +1,9 @@
+The code under this file was produced for the unit, Mathematical and Data Modeling, in year 3, Engineering Maths, University of Bristol.
+The title of the project is 'Improving and Optimising Compression Methodologies for 3D Environmental AerospaceData'.
+The raw data was provided by zenotech, which cannot be published.
+All codes under this file with .jl ending were created by the study group of Zenotech.
+All codes under this file with .py ending were created by me(Brenda Duan) with help from others.
+'ESGIZenotech.py' was the python version translated from 'ESGIZenotech.jl', most of the origin functions were translated.
+My part was optimize the octree method for data compression.
+The outcome indicated that compress data using python would be very slow, however some features of python and libraries in python could lead to a better compression rate.
+The codes for the whole project can be found at [ https://github.com/lippoben/Zenotech---MDM3 ]
